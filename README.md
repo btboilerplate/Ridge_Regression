@@ -83,12 +83,10 @@ comparable to standard linear regression.
 
 ## ▶️ How to Run the Project
 1. Clone the repository  
-text
 ```
 git clone https://github.com/your-username/Ridge_Regression.git  
 ```
 2. Install required libraries
-text
 ```
 pip install numpy pandas matplotlib scikit-learn  
 ```
