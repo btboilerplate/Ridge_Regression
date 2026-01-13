@@ -98,4 +98,6 @@ pip install numpy pandas matplotlib scikit-learn
 ## 🚀 Future Enhancements
 - Compare Ridge vs Lasso vs ElasticNet  
 - Tune the alpha hyperparameter using cross-validation  
-- Add RMSE and MAE evaluation metrics  
+- Add RMSE and MAE evaluation metrics
+
+---
